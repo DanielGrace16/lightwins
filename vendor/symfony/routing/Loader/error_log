@@ -1,0 +1,3 @@
+[21-Aug-2020 15:51:52 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Routing\Loader\AnnotationFileLoader' not found in /home3/gipocred/public_html/nyali/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php on line 23
+[21-Aug-2020 15:51:56 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Routing\Loader\AnnotationFileLoader' not found in /home3/gipocred/public_html/nyali/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php on line 23
+[21-Aug-2020 15:52:00 America/Boise] PHP Fatal error:  Class 'Symfony\Component\Routing\Loader\AnnotationFileLoader' not found in /home3/gipocred/public_html/nyali/vendor/symfony/routing/Loader/AnnotationDirectoryLoader.php on line 23

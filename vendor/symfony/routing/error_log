@@ -1,0 +1,3 @@
+[03-Nov-2020 08:10:55 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\Routing\RouteCompilerInterface' not found in /home3/gipocred/public_html/nyali/vendor/symfony/routing/RouteCompiler.php on line 20
+[06-Nov-2020 07:53:59 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\Routing\RouterInterface' not found in /home3/gipocred/public_html/nyali/vendor/symfony/routing/Router.php on line 34
+[11-Dec-2020 23:17:47 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\Routing\Matcher\UrlMatcherInterface' not found in /home3/gipocred/public_html/nyali/vendor/symfony/routing/RouterInterface.php on line 24

@@ -1,0 +1,1 @@
+[11-Jul-2020 03:36:37 America/Boise] PHP Fatal error:  Class 'Illuminate\Console\Command' not found in /home3/gipocred/public_html/nyali/vendor/laravel/tinker/src/Console/TinkerCommand.php on line 11

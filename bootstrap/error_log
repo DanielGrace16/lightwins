@@ -1,0 +1,192 @@
+[26-Jun-2020 10:24:26 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[04-Aug-2020 08:14:00 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[05-Aug-2020 04:02:35 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[20-Aug-2020 16:17:29 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[20-Aug-2020 16:17:29 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[20-Aug-2020 16:17:29 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[20-Aug-2020 16:17:29 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[20-Aug-2020 16:17:30 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[20-Aug-2020 16:17:31 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[20-Aug-2020 16:17:31 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[21-Aug-2020 08:09:34 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[25-Aug-2020 14:25:20 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[25-Aug-2020 14:25:20 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[25-Aug-2020 14:25:29 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[25-Aug-2020 14:26:16 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[25-Aug-2020 14:32:33 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[25-Aug-2020 14:34:22 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[31-Aug-2020 01:36:21 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[31-Aug-2020 01:36:21 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[31-Aug-2020 01:36:36 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[31-Aug-2020 01:37:11 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[31-Aug-2020 01:37:29 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[31-Aug-2020 22:23:47 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[04-Sep-2020 02:55:40 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[04-Sep-2020 02:55:40 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[05-Sep-2020 02:47:56 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[05-Sep-2020 02:47:56 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[13-Sep-2020 14:06:44 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[13-Sep-2020 14:07:03 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[13-Sep-2020 14:07:33 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[15-Sep-2020 14:31:49 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[15-Sep-2020 14:31:57 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[30-Sep-2020 09:17:21 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[30-Sep-2020 17:28:37 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[14-Oct-2020 10:33:36 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[16-Oct-2020 02:13:06 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[17-Oct-2020 16:08:45 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[21-Oct-2020 02:49:09 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[21-Oct-2020 02:49:09 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[23-Oct-2020 02:58:41 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[23-Oct-2020 02:58:41 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[04-Nov-2020 15:52:07 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[08-Nov-2020 13:14:24 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[08-Nov-2020 17:05:20 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[22-Nov-2020 02:52:22 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[22-Nov-2020 02:52:22 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[04-Dec-2020 21:08:55 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14
+[09-Dec-2020 02:42:11 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Application' not found in /home3/gipocred/public_html/nyali/bootstrap/app.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/bootstrap/app.php on line 14

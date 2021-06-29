@@ -1,0 +1,5 @@
+[17-Apr-2020 02:53:31 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home3/gipocred/public_html/nyali/app/User.php on line 8
+[17-Apr-2020 02:53:32 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home3/gipocred/public_html/nyali/app/User.php on line 8
+[22-Apr-2020 02:49:33 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home3/gipocred/public_html/nyali/app/User.php on line 8
+[22-Apr-2020 02:49:33 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home3/gipocred/public_html/nyali/app/User.php on line 8
+[22-May-2020 10:06:33 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home3/gipocred/public_html/nyali/app/User.php on line 8

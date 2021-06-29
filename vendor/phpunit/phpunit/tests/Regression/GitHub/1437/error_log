@@ -1,0 +1,3 @@
+[21-Aug-2020 15:51:51 America/Boise] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home3/gipocred/public_html/nyali/vendor/phpunit/phpunit/tests/Regression/GitHub/1437/Issue1437Test.php on line 12
+[21-Aug-2020 15:51:54 America/Boise] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home3/gipocred/public_html/nyali/vendor/phpunit/phpunit/tests/Regression/GitHub/1437/Issue1437Test.php on line 12
+[21-Aug-2020 15:51:57 America/Boise] PHP Fatal error:  Class 'PHPUnit\Framework\TestCase' not found in /home3/gipocred/public_html/nyali/vendor/phpunit/phpunit/tests/Regression/GitHub/1437/Issue1437Test.php on line 12

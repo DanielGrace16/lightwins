@@ -1,0 +1,4 @@
+[05-Nov-2020 04:13:31 America/Boise] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\HeaderBag' not found in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/ResponseHeaderBag.php on line 19
+[06-Nov-2020 20:55:27 America/Boise] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\ParameterBag' not found in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/ServerBag.php on line 21
+[15-Nov-2020 14:30:23 America/Boise] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\Response' not found in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/BinaryFileResponse.php on line 26
+[17-Nov-2020 10:41:32 America/Boise] PHP Fatal error:  Class 'Symfony\Component\HttpFoundation\Request' not found in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/ApacheRequest.php on line 19

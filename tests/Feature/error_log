@@ -1,0 +1,5 @@
+[17-Jun-2020 16:47:00 America/Boise] PHP Fatal error:  Class 'Tests\TestCase' not found in /home3/gipocred/public_html/nyali/tests/Feature/ExampleTest.php on line 8
+[23-Jun-2020 11:04:28 America/Boise] PHP Fatal error:  Class 'Tests\TestCase' not found in /home3/gipocred/public_html/nyali/tests/Feature/ExampleTest.php on line 8
+[25-Sep-2020 14:41:25 America/Boise] PHP Fatal error:  Class 'Tests\TestCase' not found in /home3/gipocred/public_html/nyali/tests/Feature/ExampleTest.php on line 8
+[19-Oct-2020 05:26:46 America/Boise] PHP Fatal error:  Class 'Tests\TestCase' not found in /home3/gipocred/public_html/nyali/tests/Feature/ExampleTest.php on line 8
+[12-Nov-2020 19:11:18 America/Boise] PHP Fatal error:  Class 'Tests\TestCase' not found in /home3/gipocred/public_html/nyali/tests/Feature/ExampleTest.php on line 8

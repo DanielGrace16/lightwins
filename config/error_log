@@ -1,0 +1,1068 @@
+[28-May-2020 04:39:17 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home3/gipocred/public_html/nyali/config/ide-helper.php:54
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/ide-helper.php on line 54
+[28-May-2020 10:15:18 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/broadcasting.php on line 18
+[28-May-2020 18:16:27 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/logging.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/logging.php on line 16
+[29-May-2020 00:11:11 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/broadcasting.php on line 18
+[29-May-2020 12:49:49 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/app.php on line 16
+[29-May-2020 14:20:46 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/filesystems.php on line 16
+[31-May-2020 04:32:39 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/database.php on line 16
+[01-Jun-2020 08:59:40 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home3/gipocred/public_html/nyali/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/view.php on line 17
+[03-Jun-2020 04:05:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/cache.php on line 18
+[03-Jun-2020 12:16:53 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home3/gipocred/public_html/nyali/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/trustedproxy.php on line 42
+[03-Jun-2020 12:16:55 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/mail.php on line 19
+[03-Jun-2020 12:31:53 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/logging.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/logging.php on line 16
+[03-Jun-2020 16:16:21 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/cache.php on line 18
+[03-Jun-2020 17:05:03 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/session.php on line 19
+[03-Jun-2020 19:38:51 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home3/gipocred/public_html/nyali/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/trustedproxy.php on line 42
+[03-Jun-2020 21:09:02 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/services.php on line 18
+[03-Jun-2020 21:47:21 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/mail.php on line 19
+[03-Jun-2020 23:11:59 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home3/gipocred/public_html/nyali/config/excel.php:59
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/excel.php on line 59
+[04-Jun-2020 00:52:25 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/logging.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/logging.php on line 16
+[04-Jun-2020 07:43:56 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/debugbar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/debugbar.php on line 17
+[04-Jun-2020 17:35:29 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home3/gipocred/public_html/nyali/config/dompdf.php:41
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/dompdf.php on line 41
+[05-Jun-2020 17:55:29 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home3/gipocred/public_html/nyali/config/ide-helper.php:54
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/ide-helper.php on line 54
+[08-Jun-2020 06:46:24 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/filesystems.php on line 16
+[08-Jun-2020 07:01:04 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/debugbar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/debugbar.php on line 17
+[08-Jun-2020 17:40:24 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/database.php on line 16
+[14-Jun-2020 07:40:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home3/gipocred/public_html/nyali/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/view.php on line 17
+[14-Jun-2020 09:18:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/services.php on line 18
+[14-Jun-2020 09:20:13 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/mail.php on line 19
+[14-Jun-2020 10:55:35 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/queue.php on line 16
+[14-Jun-2020 11:35:12 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/app.php on line 16
+[15-Jun-2020 04:31:50 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/broadcasting.php on line 18
+[15-Jun-2020 05:47:29 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home3/gipocred/public_html/nyali/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/trustedproxy.php on line 42
+[15-Jun-2020 06:25:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home3/gipocred/public_html/nyali/config/dompdf.php:41
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/dompdf.php on line 41
+[15-Jun-2020 08:52:10 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/cache.php on line 18
+[18-Jun-2020 15:21:31 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/debugbar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/debugbar.php on line 17
+[26-Jun-2020 05:45:11 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/services.php on line 18
+[26-Jun-2020 08:03:16 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home3/gipocred/public_html/nyali/config/excel.php:59
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/excel.php on line 59
+[26-Jun-2020 09:16:10 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/debugbar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/debugbar.php on line 17
+[26-Jun-2020 09:39:19 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/queue.php on line 16
+[26-Jun-2020 09:47:18 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/session.php on line 19
+[26-Jun-2020 10:28:37 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/database.php on line 16
+[30-Jun-2020 12:26:35 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home3/gipocred/public_html/nyali/config/dompdf.php:41
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/dompdf.php on line 41
+[07-Jul-2020 08:51:53 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/mail.php on line 19
+[10-Jul-2020 11:33:13 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/queue.php on line 16
+[11-Jul-2020 08:30:27 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/services.php on line 18
+[11-Jul-2020 09:12:38 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/database.php on line 16
+[14-Jul-2020 23:48:03 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home3/gipocred/public_html/nyali/config/excel.php:59
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/excel.php on line 59
+[15-Jul-2020 13:31:03 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home3/gipocred/public_html/nyali/config/excel.php:59
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/excel.php on line 59
+[17-Jul-2020 21:53:41 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/filesystems.php on line 16
+[18-Jul-2020 02:55:26 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/session.php on line 19
+[18-Jul-2020 08:40:45 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/app.php on line 16
+[18-Jul-2020 15:53:42 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/database.php on line 16
+[19-Jul-2020 23:32:40 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home3/gipocred/public_html/nyali/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/trustedproxy.php on line 42
+[20-Jul-2020 02:48:28 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/database.php on line 16
+[21-Jul-2020 04:32:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/database.php on line 16
+[21-Jul-2020 19:25:05 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home3/gipocred/public_html/nyali/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/trustedproxy.php on line 42
+[22-Jul-2020 01:08:34 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home3/gipocred/public_html/nyali/config/ide-helper.php:54
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/ide-helper.php on line 54
+[22-Jul-2020 22:14:34 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/services.php on line 18
+[23-Jul-2020 04:15:02 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/database.php on line 16
+[23-Jul-2020 04:50:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/database.php on line 16
+[23-Jul-2020 08:26:46 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/logging.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/logging.php on line 16
+[24-Jul-2020 00:30:47 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/queue.php on line 16
+[24-Jul-2020 09:49:52 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/cache.php on line 18
+[24-Jul-2020 15:16:18 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/services.php on line 18
+[25-Jul-2020 04:53:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/filesystems.php on line 16
+[25-Jul-2020 10:52:53 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/broadcasting.php on line 18
+[25-Jul-2020 17:11:39 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/logging.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/logging.php on line 16
+[28-Jul-2020 04:45:18 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/session.php on line 19
+[30-Jul-2020 04:50:09 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/debugbar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/debugbar.php on line 17
+[30-Jul-2020 18:49:30 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/queue.php on line 16
+[30-Jul-2020 23:12:19 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home3/gipocred/public_html/nyali/config/ide-helper.php:54
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/ide-helper.php on line 54
+[01-Aug-2020 03:28:12 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/app.php on line 16
+[01-Aug-2020 16:24:46 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/filesystems.php on line 16
+[02-Aug-2020 04:19:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/broadcasting.php on line 18
+[04-Aug-2020 02:13:10 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/mail.php on line 19
+[05-Aug-2020 20:03:16 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/cache.php on line 18
+[05-Aug-2020 20:11:38 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home3/gipocred/public_html/nyali/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/trustedproxy.php on line 42
+[06-Aug-2020 15:53:55 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/session.php on line 19
+[09-Aug-2020 09:07:20 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home3/gipocred/public_html/nyali/config/excel.php:59
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/excel.php on line 59
+[09-Aug-2020 09:53:29 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/queue.php on line 16
+[09-Aug-2020 13:11:51 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/mail.php on line 19
+[09-Aug-2020 14:45:56 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/services.php on line 18
+[09-Aug-2020 19:47:04 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home3/gipocred/public_html/nyali/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/trustedproxy.php on line 42
+[14-Aug-2020 03:05:30 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/debugbar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/debugbar.php on line 17
+[14-Aug-2020 12:45:16 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home3/gipocred/public_html/nyali/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/trustedproxy.php on line 42
+[16-Aug-2020 15:45:08 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/queue.php on line 16
+[17-Aug-2020 05:37:16 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/queue.php on line 16
+[17-Aug-2020 07:46:36 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home3/gipocred/public_html/nyali/config/dompdf.php:41
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/dompdf.php on line 41
+[19-Aug-2020 18:45:06 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home3/gipocred/public_html/nyali/config/ide-helper.php:54
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/ide-helper.php on line 54
+[20-Aug-2020 12:10:19 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/filesystems.php on line 16
+[21-Aug-2020 01:24:56 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/queue.php on line 16
+[21-Aug-2020 08:08:36 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/services.php on line 18
+[21-Aug-2020 08:08:51 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/broadcasting.php on line 18
+[21-Aug-2020 08:08:59 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home3/gipocred/public_html/nyali/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/trustedproxy.php on line 42
+[21-Aug-2020 08:09:00 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/session.php on line 19
+[21-Aug-2020 08:09:00 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/queue.php on line 16
+[21-Aug-2020 08:09:00 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/debugbar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/debugbar.php on line 17
+[21-Aug-2020 08:09:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home3/gipocred/public_html/nyali/config/dompdf.php:41
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/dompdf.php on line 41
+[21-Aug-2020 08:09:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/cache.php on line 18
+[21-Aug-2020 08:09:04 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/logging.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/logging.php on line 16
+[21-Aug-2020 08:09:19 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/mail.php on line 19
+[21-Aug-2020 08:09:25 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/database.php on line 16
+[21-Aug-2020 08:09:26 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/app.php on line 16
+[21-Aug-2020 08:09:34 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home3/gipocred/public_html/nyali/config/excel.php:59
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/excel.php on line 59
+[21-Aug-2020 08:09:52 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home3/gipocred/public_html/nyali/config/ide-helper.php:54
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/ide-helper.php on line 54
+[21-Aug-2020 08:10:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home3/gipocred/public_html/nyali/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/view.php on line 17
+[21-Aug-2020 08:10:14 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/filesystems.php on line 16
+[22-Aug-2020 03:23:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home3/gipocred/public_html/nyali/config/dompdf.php:41
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/dompdf.php on line 41
+[23-Aug-2020 12:25:30 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/debugbar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/debugbar.php on line 17
+[25-Aug-2020 03:20:18 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/broadcasting.php on line 18
+[25-Aug-2020 18:09:00 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/queue.php on line 16
+[29-Aug-2020 06:49:27 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/debugbar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/debugbar.php on line 17
+[31-Aug-2020 13:23:17 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/mail.php on line 19
+[31-Aug-2020 17:28:34 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/cache.php on line 18
+[01-Sep-2020 01:51:18 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home3/gipocred/public_html/nyali/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/trustedproxy.php on line 42
+[01-Sep-2020 03:13:28 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/debugbar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/debugbar.php on line 17
+[01-Sep-2020 03:13:29 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/debugbar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/debugbar.php on line 17
+[01-Sep-2020 03:13:29 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/queue.php on line 16
+[01-Sep-2020 03:13:29 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/queue.php on line 16
+[01-Sep-2020 03:13:30 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/services.php on line 18
+[01-Sep-2020 03:13:30 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/services.php on line 18
+[01-Sep-2020 03:13:30 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/session.php on line 19
+[01-Sep-2020 03:13:31 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/session.php on line 19
+[01-Sep-2020 03:13:31 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/logging.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/logging.php on line 16
+[01-Sep-2020 03:13:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/logging.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/logging.php on line 16
+[01-Sep-2020 03:13:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home3/gipocred/public_html/nyali/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/view.php on line 17
+[01-Sep-2020 03:13:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home3/gipocred/public_html/nyali/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/view.php on line 17
+[01-Sep-2020 03:13:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/mail.php on line 19
+[01-Sep-2020 03:13:34 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/mail.php on line 19
+[01-Sep-2020 12:37:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/session.php on line 19
+[01-Sep-2020 12:38:56 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/logging.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/logging.php on line 16
+[02-Sep-2020 02:55:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/queue.php on line 16
+[02-Sep-2020 02:55:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/queue.php on line 16
+[02-Sep-2020 02:55:02 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/session.php on line 19
+[02-Sep-2020 02:55:03 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/session.php on line 19
+[02-Sep-2020 02:55:03 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home3/gipocred/public_html/nyali/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/view.php on line 17
+[02-Sep-2020 02:55:04 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home3/gipocred/public_html/nyali/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/view.php on line 17
+[02-Sep-2020 02:55:04 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/mail.php on line 19
+[02-Sep-2020 02:55:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/mail.php on line 19
+[05-Sep-2020 02:48:00 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/filesystems.php on line 16
+[05-Sep-2020 02:48:00 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/filesystems.php on line 16
+[05-Sep-2020 02:48:10 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/app.php on line 16
+[05-Sep-2020 02:48:10 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/app.php on line 16
+[05-Sep-2020 02:48:27 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home3/gipocred/public_html/nyali/config/dompdf.php:41
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/dompdf.php on line 41
+[05-Sep-2020 02:48:28 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home3/gipocred/public_html/nyali/config/dompdf.php:41
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/dompdf.php on line 41
+[05-Sep-2020 02:48:30 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/services.php on line 18
+[05-Sep-2020 02:48:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/services.php on line 18
+[05-Sep-2020 04:29:52 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/services.php on line 18
+[07-Sep-2020 03:02:27 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/database.php on line 16
+[13-Sep-2020 10:31:38 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/app.php on line 16
+[13-Sep-2020 21:12:23 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/filesystems.php on line 16
+[15-Sep-2020 14:31:54 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/app.php on line 16
+[15-Sep-2020 14:31:56 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/broadcasting.php on line 18
+[15-Sep-2020 14:31:56 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/cache.php on line 18
+[15-Sep-2020 14:31:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/database.php on line 16
+[15-Sep-2020 14:31:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/debugbar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/debugbar.php on line 17
+[15-Sep-2020 14:31:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home3/gipocred/public_html/nyali/config/dompdf.php:41
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/dompdf.php on line 41
+[15-Sep-2020 14:32:00 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/app.php on line 16
+[15-Sep-2020 14:32:00 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home3/gipocred/public_html/nyali/config/excel.php:59
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/excel.php on line 59
+[15-Sep-2020 14:32:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/broadcasting.php on line 18
+[15-Sep-2020 14:32:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/filesystems.php on line 16
+[15-Sep-2020 14:32:02 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home3/gipocred/public_html/nyali/config/ide-helper.php:54
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/ide-helper.php on line 54
+[15-Sep-2020 14:32:03 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/logging.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/logging.php on line 16
+[15-Sep-2020 14:32:04 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/mail.php on line 19
+[15-Sep-2020 14:32:04 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/queue.php on line 16
+[15-Sep-2020 14:32:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/services.php on line 18
+[15-Sep-2020 14:32:06 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/session.php on line 19
+[15-Sep-2020 14:32:07 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home3/gipocred/public_html/nyali/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/trustedproxy.php on line 42
+[15-Sep-2020 14:32:08 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home3/gipocred/public_html/nyali/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/view.php on line 17
+[15-Sep-2020 14:32:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/broadcasting.php on line 18
+[15-Sep-2020 14:32:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/cache.php on line 18
+[15-Sep-2020 14:32:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/database.php on line 16
+[15-Sep-2020 14:33:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/database.php on line 16
+[15-Sep-2020 14:33:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/debugbar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/debugbar.php on line 17
+[15-Sep-2020 14:33:06 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home3/gipocred/public_html/nyali/config/dompdf.php:41
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/dompdf.php on line 41
+[15-Sep-2020 14:33:06 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home3/gipocred/public_html/nyali/config/excel.php:59
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/excel.php on line 59
+[15-Sep-2020 14:33:06 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/filesystems.php on line 16
+[15-Sep-2020 14:33:07 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home3/gipocred/public_html/nyali/config/ide-helper.php:54
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/ide-helper.php on line 54
+[15-Sep-2020 14:33:39 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home3/gipocred/public_html/nyali/config/ide-helper.php:54
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/ide-helper.php on line 54
+[15-Sep-2020 14:33:39 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/logging.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/logging.php on line 16
+[15-Sep-2020 14:33:40 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/mail.php on line 19
+[15-Sep-2020 14:33:40 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/queue.php on line 16
+[15-Sep-2020 14:33:41 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/services.php on line 18
+[15-Sep-2020 14:33:41 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/session.php on line 19
+[15-Sep-2020 14:33:42 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home3/gipocred/public_html/nyali/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/trustedproxy.php on line 42
+[15-Sep-2020 14:34:14 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home3/gipocred/public_html/nyali/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/trustedproxy.php on line 42
+[15-Sep-2020 14:34:14 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home3/gipocred/public_html/nyali/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/view.php on line 17
+[20-Sep-2020 12:15:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/debugbar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/debugbar.php on line 17
+[20-Sep-2020 13:37:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/broadcasting.php on line 18
+[23-Sep-2020 09:51:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/session.php on line 19
+[24-Sep-2020 11:50:23 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home3/gipocred/public_html/nyali/config/ide-helper.php:54
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/ide-helper.php on line 54
+[26-Sep-2020 09:32:38 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/services.php on line 18
+[26-Sep-2020 20:07:03 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home3/gipocred/public_html/nyali/config/excel.php:59
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/excel.php on line 59
+[26-Sep-2020 22:46:29 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/debugbar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/debugbar.php on line 17
+[28-Sep-2020 08:15:12 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/database.php on line 16
+[02-Oct-2020 11:50:21 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/logging.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/logging.php on line 16
+[03-Oct-2020 06:59:43 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/queue.php on line 16
+[04-Oct-2020 21:26:28 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/app.php on line 16
+[05-Oct-2020 03:00:07 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/database.php on line 16
+[05-Oct-2020 03:00:07 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/database.php on line 16
+[05-Oct-2020 11:44:39 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/filesystems.php on line 16
+[09-Oct-2020 08:27:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home3/gipocred/public_html/nyali/config/dompdf.php:41
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/dompdf.php on line 41
+[10-Oct-2020 10:27:59 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/logging.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/logging.php on line 16
+[13-Oct-2020 05:49:03 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/debugbar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/debugbar.php on line 17
+[13-Oct-2020 06:57:25 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/broadcasting.php on line 18
+[14-Oct-2020 10:33:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/services.php on line 18
+[14-Oct-2020 10:35:08 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/app.php on line 16
+[14-Oct-2020 10:35:09 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/debugbar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/debugbar.php on line 17
+[14-Oct-2020 10:35:12 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/queue.php on line 16
+[14-Oct-2020 10:35:13 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/cache.php on line 18
+[14-Oct-2020 10:35:14 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/mail.php on line 19
+[14-Oct-2020 10:35:17 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/logging.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/logging.php on line 16
+[14-Oct-2020 10:35:18 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home3/gipocred/public_html/nyali/config/dompdf.php:41
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/dompdf.php on line 41
+[14-Oct-2020 10:35:21 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home3/gipocred/public_html/nyali/config/ide-helper.php:54
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/ide-helper.php on line 54
+[14-Oct-2020 10:35:22 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home3/gipocred/public_html/nyali/config/excel.php:59
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/excel.php on line 59
+[14-Oct-2020 10:35:24 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home3/gipocred/public_html/nyali/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/trustedproxy.php on line 42
+[14-Oct-2020 10:35:26 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/broadcasting.php on line 18
+[14-Oct-2020 10:35:27 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/filesystems.php on line 16
+[14-Oct-2020 10:35:30 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home3/gipocred/public_html/nyali/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/view.php on line 17
+[14-Oct-2020 10:35:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/database.php on line 16
+[14-Oct-2020 10:35:36 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/session.php on line 19
+[15-Oct-2020 20:05:54 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/mail.php on line 19
+[15-Oct-2020 20:45:16 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/cache.php on line 18
+[16-Oct-2020 06:35:49 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home3/gipocred/public_html/nyali/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/trustedproxy.php on line 42
+[16-Oct-2020 20:50:38 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/session.php on line 19
+[18-Oct-2020 06:35:46 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home3/gipocred/public_html/nyali/config/ide-helper.php:54
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/ide-helper.php on line 54
+[19-Oct-2020 12:34:28 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/filesystems.php on line 16
+[20-Oct-2020 04:47:24 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/services.php on line 18
+[20-Oct-2020 16:04:02 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home3/gipocred/public_html/nyali/config/excel.php:59
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/excel.php on line 59
+[22-Oct-2020 08:22:14 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/database.php on line 16
+[23-Oct-2020 00:01:27 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home3/gipocred/public_html/nyali/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/view.php on line 17
+[24-Oct-2020 12:12:04 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/session.php on line 19
+[27-Oct-2020 19:20:17 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/logging.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/logging.php on line 16
+[30-Oct-2020 07:48:38 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home3/gipocred/public_html/nyali/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/view.php on line 17
+[30-Oct-2020 17:06:27 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/app.php on line 16
+[31-Oct-2020 03:33:15 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/filesystems.php on line 16
+[01-Nov-2020 09:28:43 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/database.php on line 16
+[03-Nov-2020 21:34:08 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home3/gipocred/public_html/nyali/config/dompdf.php:41
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/dompdf.php on line 41
+[04-Nov-2020 17:10:42 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/database.php on line 16
+[05-Nov-2020 10:05:27 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/broadcasting.php on line 18
+[07-Nov-2020 02:28:29 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/filesystems.php on line 16
+[07-Nov-2020 19:03:14 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home3/gipocred/public_html/nyali/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/view.php on line 17
+[08-Nov-2020 03:52:28 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/mail.php on line 19
+[08-Nov-2020 06:28:30 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/cache.php on line 18
+[08-Nov-2020 08:07:15 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/broadcasting.php on line 18
+[08-Nov-2020 17:04:50 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/services.php on line 18
+[08-Nov-2020 17:06:52 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/app.php on line 16
+[08-Nov-2020 17:06:53 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/debugbar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/debugbar.php on line 17
+[08-Nov-2020 17:06:56 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/queue.php on line 16
+[08-Nov-2020 17:06:57 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/cache.php on line 18
+[08-Nov-2020 17:06:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/mail.php on line 19
+[08-Nov-2020 17:07:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/logging.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/logging.php on line 16
+[08-Nov-2020 17:07:02 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home3/gipocred/public_html/nyali/config/dompdf.php:41
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/dompdf.php on line 41
+[08-Nov-2020 17:07:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home3/gipocred/public_html/nyali/config/ide-helper.php:54
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/ide-helper.php on line 54
+[08-Nov-2020 17:07:06 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home3/gipocred/public_html/nyali/config/excel.php:59
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/excel.php on line 59
+[08-Nov-2020 17:07:08 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home3/gipocred/public_html/nyali/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/trustedproxy.php on line 42
+[08-Nov-2020 17:07:10 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/broadcasting.php on line 18
+[08-Nov-2020 17:07:11 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/filesystems.php on line 16
+[08-Nov-2020 17:07:14 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home3/gipocred/public_html/nyali/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/view.php on line 17
+[08-Nov-2020 17:07:16 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/database.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/database.php on line 16
+[08-Nov-2020 17:07:20 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/session.php on line 19
+[08-Nov-2020 17:09:24 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home3/gipocred/public_html/nyali/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/trustedproxy.php on line 42
+[09-Nov-2020 01:05:34 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Maatwebsite\Excel\Excel' not found in /home3/gipocred/public_html/nyali/config/excel.php:59
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/excel.php on line 59
+[09-Nov-2020 12:59:31 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/session.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/session.php on line 19
+[11-Nov-2020 04:29:01 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home3/gipocred/public_html/nyali/config/ide-helper.php:54
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/ide-helper.php on line 54
+[11-Nov-2020 15:25:32 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/gipocred/public_html/nyali/config/mail.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/mail.php on line 19
+[04-Dec-2020 02:49:07 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home3/gipocred/public_html/nyali/config/trustedproxy.php:42
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/config/trustedproxy.php on line 42

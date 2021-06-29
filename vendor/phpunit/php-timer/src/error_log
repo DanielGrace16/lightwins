@@ -1,0 +1,2 @@
+[17-Oct-2020 02:57:23 America/Boise] PHP Fatal error:  Interface 'SebastianBergmann\Timer\Exception' not found in /home3/gipocred/public_html/nyali/vendor/phpunit/php-timer/src/RuntimeException.php on line 13
+[17-Oct-2020 02:57:23 America/Boise] PHP Fatal error:  Interface 'SebastianBergmann\Timer\Exception' not found in /home3/gipocred/public_html/nyali/vendor/phpunit/php-timer/src/RuntimeException.php on line 13

@@ -1,0 +1,116 @@
+[23-Aug-2020 18:41:56 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home3/gipocred/public_html/nyali/resources/views/loan/loans_rescheduled.blade.php on line 52
+[23-Aug-2020 18:41:56 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\Helpers\GeneralHelper' not found in /home3/gipocred/public_html/nyali/resources/views/loan/print_schedule.blade.php:650
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/resources/views/loan/print_schedule.blade.php on line 650
+[23-Aug-2020 18:41:57 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home3/gipocred/public_html/nyali/resources/views/loan/my_loans.blade.php on line 52
+[23-Aug-2020 18:41:57 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\Helpers\GeneralHelper' not found in /home3/gipocred/public_html/nyali/resources/views/loan/show.blade.php:640
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/resources/views/loan/show.blade.php on line 640
+[23-Aug-2020 18:41:57 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home3/gipocred/public_html/nyali/resources/views/loan/branch_loans.blade.php on line 52
+[23-Aug-2020 18:41:58 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\Helpers\GeneralHelper' not found in /home3/gipocred/public_html/nyali/resources/views/loan/pdf_schedule.blade.php:650
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/resources/views/loan/pdf_schedule.blade.php on line 650
+[23-Aug-2020 18:41:59 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\Helpers\GeneralHelper' not found in /home3/gipocred/public_html/nyali/resources/views/loan/showbbb.blade.php:642
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/resources/views/loan/showbbb.blade.php on line 642
+[23-Aug-2020 18:41:59 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home3/gipocred/public_html/nyali/resources/views/loan/data.blade.php on line 52
+[23-Aug-2020 18:41:59 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Sentinel' not found in /home3/gipocred/public_html/nyali/resources/views/loan/create.blade.php:32
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/resources/views/loan/create.blade.php on line 32
+[23-Aug-2020 18:41:59 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home3/gipocred/public_html/nyali/resources/views/loan/loans_written_off.blade.php on line 52
+[23-Aug-2020 18:41:59 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\Models\CustomFieldMeta' not found in /home3/gipocred/public_html/nyali/resources/views/loan/edit_client_loan.blade.php:427
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/resources/views/loan/edit_client_loan.blade.php on line 427
+[23-Aug-2020 18:42:00 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home3/gipocred/public_html/nyali/resources/views/loan/loans_closed.blade.php on line 52
+[23-Aug-2020 18:42:00 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\Models\CustomFieldMeta' not found in /home3/gipocred/public_html/nyali/resources/views/loan/edit_group_loan.blade.php:460
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/resources/views/loan/edit_group_loan.blade.php on line 460
+[25-Aug-2020 03:43:53 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home3/gipocred/public_html/nyali/resources/views/loan/loans_closed.blade.php on line 52
+[25-Aug-2020 03:43:53 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home3/gipocred/public_html/nyali/resources/views/loan/data.blade.php on line 52
+[25-Aug-2020 03:43:53 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\Models\CustomFieldMeta' not found in /home3/gipocred/public_html/nyali/resources/views/loan/edit_client_loan.blade.php:427
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/resources/views/loan/edit_client_loan.blade.php on line 427
+[25-Aug-2020 03:43:53 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Sentinel' not found in /home3/gipocred/public_html/nyali/resources/views/loan/create.blade.php:32
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/resources/views/loan/create.blade.php on line 32
+[25-Aug-2020 03:43:53 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\Models\CustomFieldMeta' not found in /home3/gipocred/public_html/nyali/resources/views/loan/edit_group_loan.blade.php:460
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/resources/views/loan/edit_group_loan.blade.php on line 460
+[25-Aug-2020 03:43:54 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\Helpers\GeneralHelper' not found in /home3/gipocred/public_html/nyali/resources/views/loan/show.blade.php:640
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/resources/views/loan/show.blade.php on line 640
+[25-Aug-2020 03:43:55 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\Helpers\GeneralHelper' not found in /home3/gipocred/public_html/nyali/resources/views/loan/print_schedule.blade.php:650
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/resources/views/loan/print_schedule.blade.php on line 650
+[25-Aug-2020 03:43:56 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home3/gipocred/public_html/nyali/resources/views/loan/loans_rescheduled.blade.php on line 52
+[25-Aug-2020 03:43:56 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home3/gipocred/public_html/nyali/resources/views/loan/branch_loans.blade.php on line 52
+[25-Aug-2020 03:43:56 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home3/gipocred/public_html/nyali/resources/views/loan/my_loans.blade.php on line 52
+[25-Aug-2020 03:44:01 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\Helpers\GeneralHelper' not found in /home3/gipocred/public_html/nyali/resources/views/loan/pdf_schedule.blade.php:650
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/resources/views/loan/pdf_schedule.blade.php on line 650
+[25-Aug-2020 03:44:45 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\Helpers\GeneralHelper' not found in /home3/gipocred/public_html/nyali/resources/views/loan/showbbb.blade.php:642
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/resources/views/loan/showbbb.blade.php on line 642
+[25-Aug-2020 03:46:24 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home3/gipocred/public_html/nyali/resources/views/loan/loans_written_off.blade.php on line 52
+[28-Oct-2020 02:34:21 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Sentinel' not found in /home3/gipocred/public_html/nyali/resources/views/loan/create.blade.php:32
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/resources/views/loan/create.blade.php on line 32
+[30-Oct-2020 12:45:07 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\Models\CustomFieldMeta' not found in /home3/gipocred/public_html/nyali/resources/views/loan/edit_group_loan.blade.php:460
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/resources/views/loan/edit_group_loan.blade.php on line 460
+[31-Oct-2020 19:59:46 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home3/gipocred/public_html/nyali/resources/views/loan/loans_rescheduled.blade.php on line 52
+[01-Nov-2020 00:05:07 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\Helpers\GeneralHelper' not found in /home3/gipocred/public_html/nyali/resources/views/loan/showbbb.blade.php:642
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/resources/views/loan/showbbb.blade.php on line 642
+[02-Nov-2020 08:18:05 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\Helpers\GeneralHelper' not found in /home3/gipocred/public_html/nyali/resources/views/loan/print_schedule.blade.php:650
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/resources/views/loan/print_schedule.blade.php on line 650
+[05-Nov-2020 02:15:42 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home3/gipocred/public_html/nyali/resources/views/loan/loans_written_off.blade.php on line 52
+[07-Nov-2020 10:09:53 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home3/gipocred/public_html/nyali/resources/views/loan/loans_closed.blade.php on line 52
+[08-Nov-2020 04:59:01 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\Models\CustomFieldMeta' not found in /home3/gipocred/public_html/nyali/resources/views/loan/edit_client_loan.blade.php:427
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/resources/views/loan/edit_client_loan.blade.php on line 427
+[10-Nov-2020 18:06:16 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\Helpers\GeneralHelper' not found in /home3/gipocred/public_html/nyali/resources/views/loan/show.bladebkp.php:623
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/resources/views/loan/show.bladebkp.php on line 623
+[10-Nov-2020 19:26:01 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home3/gipocred/public_html/nyali/resources/views/loan/branch_loans.blade.php on line 52
+[11-Nov-2020 06:59:16 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home3/gipocred/public_html/nyali/resources/views/loan/data.blade.php on line 52
+[11-Nov-2020 09:35:49 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home3/gipocred/public_html/nyali/resources/views/loan/my_loans.blade.php on line 52
+[15-Nov-2020 08:04:39 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\Helpers\GeneralHelper' not found in /home3/gipocred/public_html/nyali/resources/views/loan/pdf_schedule.blade.php:650
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/resources/views/loan/pdf_schedule.blade.php on line 650
+[24-Nov-2020 09:23:17 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\Models\CustomFieldMeta' not found in /home3/gipocred/public_html/nyali/resources/views/loan/edit_group_loan.blade.php:460
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/resources/views/loan/edit_group_loan.blade.php on line 460
+[25-Nov-2020 14:04:40 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home3/gipocred/public_html/nyali/resources/views/loan/loans_rescheduled.blade.php on line 52
+[25-Nov-2020 20:23:34 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\Helpers\GeneralHelper' not found in /home3/gipocred/public_html/nyali/resources/views/loan/showbbb.blade.php:642
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/resources/views/loan/showbbb.blade.php on line 642
+[05-Dec-2020 12:25:23 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\Helpers\GeneralHelper' not found in /home3/gipocred/public_html/nyali/resources/views/loan/show.bladebkp.php:623
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/resources/views/loan/show.bladebkp.php on line 623
+[06-Dec-2020 01:34:19 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home3/gipocred/public_html/nyali/resources/views/loan/data.blade.php on line 52

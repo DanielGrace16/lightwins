@@ -1,0 +1,17 @@
+[06-Jun-2020 03:08:01 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home3/gipocred/public_html/nyali/app_bck/User.php on line 8
+[21-Aug-2020 08:10:00 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home3/gipocred/public_html/nyali/app_bck/User.php on line 8
+[15-Sep-2020 14:31:46 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home3/gipocred/public_html/nyali/app_bck/User.php on line 8
+[15-Sep-2020 14:31:55 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home3/gipocred/public_html/nyali/app_bck/User.php on line 8
+[16-Oct-2020 02:57:25 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home3/gipocred/public_html/nyali/app_bck/User.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/app_bck/User.php on line 8
+[16-Oct-2020 02:57:25 America/Boise] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Auth\User' not found in /home3/gipocred/public_html/nyali/app_bck/User.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/app_bck/User.php on line 8
+[17-Oct-2020 02:57:20 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home3/gipocred/public_html/nyali/app_bck/User.php on line 8
+[17-Oct-2020 02:57:20 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home3/gipocred/public_html/nyali/app_bck/User.php on line 8
+[24-Oct-2020 02:47:47 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home3/gipocred/public_html/nyali/app_bck/User.php on line 8
+[24-Oct-2020 02:47:47 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home3/gipocred/public_html/nyali/app_bck/User.php on line 8
+[04-Nov-2020 15:51:58 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home3/gipocred/public_html/nyali/app_bck/User.php on line 8

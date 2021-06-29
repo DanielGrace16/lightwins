@@ -1,0 +1,2 @@
+[18-Jul-2020 02:00:40 America/Boise] PHP Fatal error:  Class 'Fideloper\Proxy\TrustProxies' not found in /home3/gipocred/public_html/nyali/app_bck/Http/Middleware/TrustProxies.php on line 8
+[20-Jul-2020 02:48:28 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home3/gipocred/public_html/nyali/app_bck/Http/Middleware/VerifyCsrfToken.php on line 7

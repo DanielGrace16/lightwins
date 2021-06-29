@@ -1,0 +1,4 @@
+[15-Sep-2020 14:37:47 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function define() on null in /home3/gipocred/public_html/nyali/database/factories/UserFactory.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/database/factories/UserFactory.php on line 16

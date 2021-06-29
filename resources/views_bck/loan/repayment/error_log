@@ -1,0 +1,16 @@
+[23-Aug-2020 18:42:39 America/Boise] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home3/gipocred/public_html/nyali/resources/views_bck/loan/repayment/create.blade.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/resources/views_bck/loan/repayment/create.blade.php on line 21
+[23-Aug-2020 18:42:39 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\Models\CustomFieldMeta' not found in /home3/gipocred/public_html/nyali/resources/views_bck/loan/repayment/edit.blade.php:222
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/resources/views_bck/loan/repayment/edit.blade.php on line 222
+[25-Aug-2020 03:44:32 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\Models\CustomFieldMeta' not found in /home3/gipocred/public_html/nyali/resources/views_bck/loan/repayment/edit.blade.php:222
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/resources/views_bck/loan/repayment/edit.blade.php on line 222
+[25-Aug-2020 03:44:32 America/Boise] PHP Fatal error:  Uncaught Error: Class 'DB' not found in /home3/gipocred/public_html/nyali/resources/views_bck/loan/repayment/create.blade.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/resources/views_bck/loan/repayment/create.blade.php on line 21

@@ -1,0 +1,279 @@
+[08-Jun-2019 15:14:50 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15728672 bytes) in /home/snuf7flut6m2/public_html/vendor/maximebf/debugbar/src/DebugBar/JavascriptRenderer.php on line 1122
+[08-Jun-2019 15:15:37 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15728672 bytes) in /home/snuf7flut6m2/public_html/vendor/maximebf/debugbar/src/DebugBar/JavascriptRenderer.php on line 1122
+[28-Jun-2019 00:03:24 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[28-Jun-2019 00:03:41 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[28-Jun-2019 11:46:30 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) in /home/snuf7flut6m2/public_html/vendor/barryvdh/laravel-debugbar/src/DataCollector/QueryCollector.php on line 212
+[28-Jun-2019 11:46:58 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[04-Jul-2019 07:56:04 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[04-Jul-2019 07:56:23 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[04-Jul-2019 08:13:26 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 6307840 bytes) in /home/snuf7flut6m2/public_html/storage/framework/views/2f6e95c4476d70094b6e39b20721afea3a720c6a.php on line 225
+[16-Sep-2019 11:38:35 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4210688 bytes) in /home/snuf7flut6m2/public_html/storage/framework/views/b4614f680d20ad036b8ccc6aa33b83fb9451dddf.php on line 484
+[16-Sep-2019 11:38:54 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4210688 bytes) in /home/snuf7flut6m2/public_html/storage/framework/views/b4614f680d20ad036b8ccc6aa33b83fb9451dddf.php on line 484
+[09-Oct-2019 17:21:20 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[09-Oct-2019 17:21:36 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[19-Oct-2019 15:53:29 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15728672 bytes) in /home/snuf7flut6m2/public_html/vendor/maximebf/debugbar/src/DebugBar/JavascriptRenderer.php on line 1122
+[08-Nov-2019 14:16:53 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[20-Dec-2019 09:30:59 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/snuf7flut6m2/public_html/vendor/dompdf/dompdf/src/Frame/Factory.php on line 223
+[20-Dec-2019 09:31:06 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/snuf7flut6m2/public_html/vendor/dompdf/dompdf/src/Frame/Factory.php on line 223
+[20-Dec-2019 09:31:16 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/snuf7flut6m2/public_html/vendor/dompdf/dompdf/src/Frame/Factory.php on line 223
+[08-Jan-2020 08:57:38 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[08-Jan-2020 09:06:23 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[08-Jan-2020 09:07:32 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[08-Jan-2020 16:17:17 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) in /home/snuf7flut6m2/public_html/storage/framework/views/07c67545b0288dbe7e454a4303c4d99cd9a14e70.php on line 356
+[09-Jan-2020 09:43:45 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[09-Jan-2020 09:43:53 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[09-Jan-2020 09:44:37 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[09-Jan-2020 09:50:09 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[09-Jan-2020 10:01:20 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[09-Jan-2020 10:39:52 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[09-Jan-2020 10:40:13 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[09-Jan-2020 10:40:31 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[09-Jan-2020 15:24:45 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[13-Jan-2020 07:58:40 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[13-Jan-2020 07:58:51 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[13-Jan-2020 07:58:59 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[14-Jan-2020 13:48:25 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[14-Jan-2020 14:18:35 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[14-Jan-2020 16:05:45 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[14-Jan-2020 16:05:53 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[14-Jan-2020 16:06:14 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[15-Jan-2020 07:40:51 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[15-Jan-2020 07:41:23 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[15-Jan-2020 07:46:10 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/snuf7flut6m2/public_html/vendor/dompdf/dompdf/src/Css/Style.php on line 854
+[15-Jan-2020 16:51:57 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 60226920 bytes) in /home/snuf7flut6m2/public_html/vendor/dompdf/dompdf/lib/Cpdf.php on line 4789
+[17-Jan-2020 08:04:19 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 261
+[17-Jan-2020 08:04:40 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 261
+[17-Jan-2020 08:05:01 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 261
+[17-Jan-2020 08:05:52 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2097152 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 261
+[17-Jan-2020 08:56:20 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15728672 bytes) in /home/snuf7flut6m2/public_html/vendor/maximebf/debugbar/src/DebugBar/JavascriptRenderer.php on line 1122
+[17-Jan-2020 08:56:54 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15728672 bytes) in /home/snuf7flut6m2/public_html/vendor/maximebf/debugbar/src/DebugBar/JavascriptRenderer.php on line 1122
+[21-Jan-2020 16:31:25 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[21-Jan-2020 16:31:35 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[21-Jan-2020 16:31:43 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[22-Jan-2020 09:13:21 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[22-Jan-2020 09:13:29 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[22-Jan-2020 10:40:25 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[22-Jan-2020 10:40:34 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[22-Jan-2020 10:40:42 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[22-Jan-2020 12:06:42 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[22-Jan-2020 12:06:50 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[23-Jan-2020 08:23:00 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[24-Jan-2020 11:58:11 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[24-Jan-2020 11:58:19 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[24-Jan-2020 11:58:34 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[24-Jan-2020 11:59:09 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[30-Jan-2020 12:14:02 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2113536 bytes) in /home/snuf7flut6m2/public_html/storage/framework/views/383dbf1f7e4b01fad7937bbc4ff21b81d6ac7857.php on line 111
+[30-Jan-2020 12:14:24 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[30-Jan-2020 12:14:36 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2113536 bytes) in /home/snuf7flut6m2/public_html/storage/framework/views/383dbf1f7e4b01fad7937bbc4ff21b81d6ac7857.php on line 111
+[30-Jan-2020 12:18:02 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2113536 bytes) in /home/snuf7flut6m2/public_html/storage/framework/views/383dbf1f7e4b01fad7937bbc4ff21b81d6ac7857.php on line 111
+[05-Feb-2020 10:17:41 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[05-Feb-2020 10:18:22 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /home/snuf7flut6m2/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 330
+[06-Feb-2020 14:18:54 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15728672 bytes) in /home/snuf7flut6m2/public_html/vendor/maximebf/debugbar/src/DebugBar/JavascriptRenderer.php on line 1122
+[06-Feb-2020 14:19:35 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15728672 bytes) in /home/snuf7flut6m2/public_html/vendor/maximebf/debugbar/src/DebugBar/JavascriptRenderer.php on line 1122
+[06-Feb-2020 14:20:35 Africa/Harare] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 15728672 bytes) in /home/snuf7flut6m2/public_html/vendor/maximebf/debugbar/src/DebugBar/JavascriptRenderer.php on line 1122
+[06-Feb-2020 23:56:13 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[06-Feb-2020 23:56:13 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[06-Feb-2020 23:56:13 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[06-Feb-2020 23:56:13 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[06-Feb-2020 23:58:38 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[06-Feb-2020 23:58:38 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[06-Feb-2020 23:58:38 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[06-Feb-2020 23:58:38 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[06-Feb-2020 23:58:44 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[06-Feb-2020 23:58:44 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[06-Feb-2020 23:58:44 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[06-Feb-2020 23:58:44 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[06-Feb-2020 23:58:49 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[06-Feb-2020 23:58:49 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[06-Feb-2020 23:58:49 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[06-Feb-2020 23:58:49 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[06-Feb-2020 23:59:18 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[06-Feb-2020 23:59:18 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[06-Feb-2020 23:59:18 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[06-Feb-2020 23:59:18 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[07-Feb-2020 00:00:09 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[07-Feb-2020 00:00:09 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[07-Feb-2020 00:00:09 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[07-Feb-2020 00:00:09 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[12-Feb-2020 20:58:03 Africa/Harare] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home3/gipocred/public_html/nyali/vendor/dompdf/dompdf/src/Css/Style.php on line 1652
+[12-Feb-2020 20:58:03 Africa/Harare] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home3/gipocred/public_html/nyali/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[12-Feb-2020 20:58:24 Africa/Harare] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home3/gipocred/public_html/nyali/vendor/dompdf/dompdf/src/Css/Style.php on line 1286
+[12-Feb-2020 20:58:24 Africa/Harare] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home3/gipocred/public_html/nyali/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[12-Feb-2020 20:59:09 Africa/Harare] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home3/gipocred/public_html/nyali/vendor/dompdf/dompdf/src/Css/Style.php on line 1286
+[12-Feb-2020 20:59:09 Africa/Harare] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home3/gipocred/public_html/nyali/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[12-Feb-2020 20:59:30 Africa/Harare] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home3/gipocred/public_html/nyali/vendor/dompdf/dompdf/src/Css/Style.php on line 1286
+[12-Feb-2020 20:59:30 Africa/Harare] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home3/gipocred/public_html/nyali/vendor/symfony/debug/Exception/FatalErrorException.php on line 1
+[13-Mar-2020 08:22:49 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[13-Mar-2020 08:22:49 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Mar-2020 08:22:49 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[13-Mar-2020 08:22:49 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Mar-2020 08:23:05 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[13-Mar-2020 08:23:05 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Mar-2020 08:23:05 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[13-Mar-2020 08:23:05 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Mar-2020 08:23:05 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[13-Mar-2020 08:23:05 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Mar-2020 08:23:05 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[13-Mar-2020 08:23:05 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Mar-2020 08:23:10 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[13-Mar-2020 08:23:10 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Mar-2020 08:23:10 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[13-Mar-2020 08:23:10 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Mar-2020 08:23:43 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[13-Mar-2020 08:23:43 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Mar-2020 08:23:43 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[13-Mar-2020 08:23:43 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Mar-2020 08:23:49 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[13-Mar-2020 08:23:49 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Mar-2020 08:23:49 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[13-Mar-2020 08:23:49 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[13-Mar-2020 16:19:13 Africa/Harare] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 31457312 bytes) in /home3/gipocred/public_html/nyali/vendor/maximebf/debugbar/src/DebugBar/JavascriptRenderer.php on line 1122
+[21-Mar-2020 11:39:27 Africa/Harare] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29796632 bytes) in /home3/gipocred/public_html/nyali/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[21-Mar-2020 11:39:47 Africa/Harare] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29795656 bytes) in /home3/gipocred/public_html/nyali/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[21-Mar-2020 11:40:14 Africa/Harare] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29794552 bytes) in /home3/gipocred/public_html/nyali/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[21-Mar-2020 11:41:03 Africa/Harare] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29795160 bytes) in /home3/gipocred/public_html/nyali/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[21-Mar-2020 11:44:43 Africa/Harare] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 29796112 bytes) in /home3/gipocred/public_html/nyali/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 122
+[30-Mar-2020 13:51:22 Africa/Harare] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 10489856 bytes) in /home3/gipocred/public_html/nyali/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[30-Mar-2020 13:51:57 Africa/Harare] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 10489856 bytes) in /home3/gipocred/public_html/nyali/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[30-Mar-2020 14:50:20 Africa/Harare] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 23072768 bytes) in /home3/gipocred/public_html/nyali/vendor/barryvdh/laravel-debugbar/src/Storage/FilesystemStorage.php on line 43
+[30-Mar-2020 14:50:20 Africa/Harare] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 32768 bytes) in /home3/gipocred/public_html/nyali/vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php on line 244
+[01-Apr-2020 14:13:30 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:13:30 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:13:30 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:13:30 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:13:35 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:13:35 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:13:35 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:13:35 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:13:40 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:13:40 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:13:40 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:13:40 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:13:54 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:13:54 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:13:54 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:13:54 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:15:24 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:15:24 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:15:24 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:15:24 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:15:57 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:15:57 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:15:57 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:15:57 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:16:07 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:16:07 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:16:07 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:16:07 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:16:18 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:16:18 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:16:18 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:16:18 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:16:22 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:16:22 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:16:22 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:16:22 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:17:50 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:17:50 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:17:50 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:17:50 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:18:46 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:18:46 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:18:46 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:18:46 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:19:22 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:19:22 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:19:22 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:19:22 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:19:22 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:19:22 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:19:22 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:19:22 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:20:27 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:20:27 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:20:27 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:20:27 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:21:01 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:21:01 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:21:01 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:21:01 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:21:07 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:21:07 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:21:07 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:21:07 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:21:43 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:21:43 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:21:43 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:21:43 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:21:55 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:21:55 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:21:55 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:21:55 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:22:48 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:22:48 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:22:48 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:22:48 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:23:25 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:23:25 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:23:25 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:23:25 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:24:52 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:24:52 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:24:52 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:24:52 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:25:23 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:25:23 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:25:23 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:25:23 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:27:17 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:27:17 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:27:17 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:27:17 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:27:55 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:27:55 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:27:55 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:27:55 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:28:27 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:28:27 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:28:27 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:28:27 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:32:59 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:32:59 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:32:59 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:32:59 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:33:22 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:33:22 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:33:22 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:33:22 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:34:09 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:34:09 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:34:09 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:34:09 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:35:08 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:35:08 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:35:08 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:35:08 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:35:11 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:35:11 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:35:11 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:35:11 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:35:20 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:35:20 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:35:20 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:35:20 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:35:27 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:35:27 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:35:27 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:35:27 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:36:09 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:36:09 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:36:09 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:36:09 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:37:03 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:37:03 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:37:03 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:37:03 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:37:11 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:37:11 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[01-Apr-2020 14:37:11 Africa/Harare] PHP Parse error:  syntax error, unexpected '?' in /home3/gipocred/public_html/nyali/vendor/symfony/http-foundation/Response.php on line 491
+[01-Apr-2020 14:37:11 Africa/Harare] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0

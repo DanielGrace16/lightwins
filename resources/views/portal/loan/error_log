@@ -1,0 +1,9 @@
+[16-Sep-2020 02:47:21 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home3/gipocred/public_html/nyali/resources/views/portal/loan/data.blade.php on line 54
+[16-Sep-2020 02:47:21 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\Helpers\GeneralHelper' not found in /home3/gipocred/public_html/nyali/resources/views/portal/loan/show.blade.php:536
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/resources/views/portal/loan/show.blade.php on line 536
+[18-Sep-2020 02:57:42 America/Boise] PHP Fatal error:  Uncaught Error: Class 'App\Helpers\GeneralHelper' not found in /home3/gipocred/public_html/nyali/resources/views/portal/loan/show.blade.php:536
+Stack trace:
+#0 {main}
+  thrown in /home3/gipocred/public_html/nyali/resources/views/portal/loan/show.blade.php on line 536

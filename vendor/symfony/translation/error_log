@@ -1,0 +1,1 @@
+[07-Nov-2020 21:11:29 America/Boise] PHP Fatal error:  Interface 'Symfony\Component\Translation\TranslatorInterface' not found in /home3/gipocred/public_html/nyali/vendor/symfony/translation/DataCollectorTranslator.php on line 19

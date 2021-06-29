@@ -1,0 +1,6 @@
+[01-Jul-2020 15:19:47 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home3/gipocred/public_html/nyali/app_bck/Providers/RouteServiceProvider.php on line 8
+[15-Sep-2020 14:37:30 America/Boise] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home3/gipocred/public_html/nyali/app_bck/Providers/AppServiceProvider.php on line 9
+[15-Sep-2020 14:37:30 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home3/gipocred/public_html/nyali/app_bck/Providers/AuthServiceProvider.php on line 8
+[15-Sep-2020 14:37:31 America/Boise] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home3/gipocred/public_html/nyali/app_bck/Providers/BroadcastServiceProvider.php on line 8
+[15-Sep-2020 14:37:32 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home3/gipocred/public_html/nyali/app_bck/Providers/EventServiceProvider.php on line 8
+[15-Sep-2020 14:37:33 America/Boise] PHP Fatal error:  Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home3/gipocred/public_html/nyali/app_bck/Providers/RouteServiceProvider.php on line 8

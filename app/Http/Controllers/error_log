@@ -1,0 +1,1 @@
+[22-Aug-2020 18:04:19 America/Boise] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home3/gipocred/public_html/nyali/app/Http/Controllers/ChargeController.php on line 19
